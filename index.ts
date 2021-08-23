@@ -1,4 +1,4 @@
-import { parse } from 'https://deno.land/x/xml/mod.ts';
+import { parse } from 'https://deno.land/x/xml@v1.0.2/parse.ts';
 
 type TResult = {
   toplevel: {
